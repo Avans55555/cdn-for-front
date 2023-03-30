@@ -1,0 +1,153 @@
+// 整体颜色表
+$Gray_09: rgba(0,0,0,1);
+$Gray_08: rgba(0,0,0,0.88);
+$Gray_07: rgba(0,0,0,0.64);
+$Gray_06: rgba(0,0,0,0.40);
+$Gray_05: rgba(0,0,0,0.24);
+$Gray_04: rgba(0,0,0,0.16);
+$Gray_03: rgba(0,0,0,0.12);
+$Gray_02: rgba(0,0,0,0.08);
+$Gray_01: rgba(0,0,0,0.04);
+
+$Grayblue_10: rgb(22,33,48);
+$Grayblue_09: rgb(45,56,71);
+$Grayblue_08: rgb(66,77,92);
+$Grayblue_07: rgb(88,99,114);
+$Grayblue_06: rgb(120,130,143);
+$Grayblue_05: rgb(155,163,171);
+$Grayblue_04: rgb(189,195,203);
+$Grayblue_03: rgb(214,219,223);
+$Grayblue_02: rgb(230,233,236);
+$Grayblue_01: rgb(242,244,245);
+
+$Purple_08:rgb(60,0,102);
+$Purple_07:rgb(89,0,153);
+$Purple_06:rgb(119,0,204);
+$Purple_05:rgb(149,0,255);
+$Purple_04:rgb(170,51,255);
+$Purple_03:rgb(191,102,255);
+$Purple_02:rgb(213,153,255);
+$Purple_01:rgb(234,204,255);
+
+$Indigoblue_08:rgb(9,0,102);
+$Indigoblue_07:rgb(13,0,153);
+$Indigoblue_06:rgb(17,0,204);
+$Indigoblue_05:rgb(21,0,255);
+$Indigoblue_04:rgb(68,51,255);
+$Indigoblue_03:rgb(115,102,255);
+$Indigoblue_02:rgb(162,153,255);
+$Indigoblue_01:rgb(208,204,255);
+
+$Brandblue_08:rgb(0,42,102);
+$Brandblue_07:rgb(0,64,153);
+$Brandblue_06:rgb(0,85,204);
+$Brandblue_05:rgb(0,106,255);
+$Brandblue_04:rgb(51,136,255);
+$Brandblue_03:rgb(102,166,255);
+$Brandblue_02:rgb(153,195,255);
+$Brandblue_01:rgb(204,225,255);
+
+$Acidblue_08:rgb(0,54,102);
+$Acidblue_07:rgb(0,82,153);
+$Acidblue_06:rgb(0,109,204);
+$Acidblue_05:rgb(0,136,255);
+$Acidblue_04:rgb(51,160,255);
+$Acidblue_03:rgb(102,184,255);
+$Acidblue_02:rgb(153,207,255);
+$Acidblue_01:rgb(204,231,255);
+
+$Cyan_08:rgb(0,77,102);
+$Cyan_07:rgb(0,115,153);
+$Cyan_06:rgb(0,153,204);
+$Cyan_05:rgb(0,191,255);
+$Cyan_04:rgb(51,204,255);
+$Cyan_03:rgb(102,217,255);
+$Cyan_02:rgb(153,230,255);
+$Cyan_01:rgb(204,242,255);
+
+$Icegreen_08:rgb(0,92,69);
+$Icegreen_07:rgb(0,138,103);
+$Icegreen_06:rgb(0,184,138);
+$Icegreen_05:rgb(0,230,172);
+$Icegreen_04:rgb(47,235,188);
+$Icegreen_03:rgb(96,240,204);
+$Icegreen_02:rgb(147,245,220);
+$Icegreen_01:rgb(200,250,237);
+
+$Green_08:rgb(0,82,48);
+$Green_07:rgb(0,122,71);
+$Green_06:rgb(0,163,95);
+$Green_05:rgb(0,204,119);
+$Green_04:rgb(43,214,143);
+$Green_03:rgb(90,224,168);
+$Green_02:rgb(141,235,196);
+$Green_01:rgb(196,245,224);
+
+$Red_09:rgb(97,0,8);
+$Red_08:rgb(145,0,12);
+$Red_07:rgb(194,0,16);
+$Red_06:rgb(242,0,20);
+$Red_05:rgb(245,49,65);
+$Red_04:rgb(247,99,111);
+$Red_03:rgb(250,150,158);
+$Red_02:rgb(252,202,206);
+$Red_01:rgb(252,227,229);
+
+$Orange_08:rgb(122,65,0);
+$Orange_07:rgb(171,91,0);
+$Orange_06:rgb(219,117,0);
+$Orange_05:rgb(242,129,0);
+$Orange_04:rgb(245,153,49);
+$Orange_03:rgb(247,178,99);
+$Orange_02:rgb(250,203,150);
+$Orange_01:rgb(252,229,202);
+
+$Yellow_08:rgb(102,85,0);
+$Yellow_07:rgb(153,128,0);
+$Yellow_06:rgb(204,170,0);
+$Yellow_05:rgb(255,213,0);
+$Yellow_04:rgb(255,221,51);
+$Yellow_03:rgb(255,230,102);
+$Yellow_02:rgb(255,238,153);
+$Yellow_01:rgb(255,247,204);
+
+
+// 字体颜色表 S:浅色  D:深色
+$S_Title:rgba(black,0.88);
+$S_PrimaryText:rgba(black,0.64);
+$S_SecondaryText:rgba(black,0.40);
+$S_Disable:rgba(black,0.24);
+$S_Border:rgba(black,0.16);
+$S_Dividers:rgba(black,0.12);
+$S_Background:rgba(black,0.08);
+$S_TableHeader:rgba(black,0.04);
+
+$D_Title:rgba(white,0.88);
+$D_PrimaryText:rgba(white,0.64);
+$D_SecondaryText:rgba(white,0.40);
+$D_Disable:rgba(white,0.24);
+$D_Border:rgba(white,0.16);
+$D_Dividers:rgba(white,0.12);
+$D_Background:rgba(white,0.08);
+$D_TableHeader:rgba(white,0.04);
+
+// 字号大小
+$Title_01: 44px;
+$Title_02: 36px;
+$Title_03: 32px;
+$Body_01: 14px;
+$Body_02: 13px;
+$Body_03: 12px;
+$Display_01: 10px;
+
+// 兼容H5 APP
+/* #ifdef  H5 || APP-PLUS */
+$Title_01: 44rpx;
+$Title_02: 36rpx;
+$Title_03: 32rpx;
+$Body_01: 28rpx;
+$Body_02: 26rpx;
+$Body_02: 24rpx;
+$Display_01: 20rpx;
+/* #endif */
+
